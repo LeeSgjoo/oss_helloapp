@@ -11,6 +11,7 @@ function App() {
           <code>Handong/oss/code/helloapp</code> : 23학번 이승주의 페이지입니다.
         </p>
         <Hello />
+        <a href='https://hisnet.handong.edu'>히즈넷 링크</a>
         <a
           className="App-link"
           href="https://reactjs.org"
