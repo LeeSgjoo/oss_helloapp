@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <code>Handong/oss/code/helloapp</code> : 23학번 이승주의 페이지입니다.
         </p>
         <component1/>
         <component2/>
