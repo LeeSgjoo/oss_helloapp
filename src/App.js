@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import component1 from './component1';
-import component2 from './component2';
+import Hello from './hello';
 
 function App() {
   return (
@@ -11,8 +10,7 @@ function App() {
         <p>
           <code>Handong/oss/code/helloapp</code> : 23학번 이승주의 페이지입니다.
         </p>
-        <component1/>
-        <component2/>
+        <Hello />
         <a
           className="App-link"
           href="https://reactjs.org"
